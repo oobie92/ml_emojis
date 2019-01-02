@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 '''
 Emotion classification with a Logistic classifier
 @author: Omar U. Florez

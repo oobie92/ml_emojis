@@ -1,7 +1,4 @@
-'''
-Emotion classification with LSTM
-@author: Omar U. Florez
-'''
+
 
 import tensorflow as tf
 
